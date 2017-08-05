@@ -13,6 +13,7 @@
 		219A76271F3563B500A266CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 219A76261F3563B500A266CC /* Assets.xcassets */; };
 		219A762A1F3563B500A266CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 219A76281F3563B500A266CC /* LaunchScreen.storyboard */; };
 		219A76321F35644C00A266CC /* Section.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219A76311F35644C00A266CC /* Section.swift */; };
+		219A76341F35665F00A266CC /* ExpandableSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 219A76331F35665F00A266CC /* ExpandableSection.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		219A76291F3563B500A266CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		219A762B1F3563B500A266CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		219A76311F35644C00A266CC /* Section.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Section.swift; sourceTree = "<group>"; };
+		219A76331F35665F00A266CC /* ExpandableSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExpandableSection.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				219A761F1F3563B500A266CC /* AppDelegate.swift */,
 				219A76211F3563B500A266CC /* ViewController.swift */,
 				219A76311F35644C00A266CC /* Section.swift */,
+				219A76331F35665F00A266CC /* ExpandableSection.swift */,
 				219A76231F3563B500A266CC /* Main.storyboard */,
 				219A76261F3563B500A266CC /* Assets.xcassets */,
 				219A76281F3563B500A266CC /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				219A76321F35644C00A266CC /* Section.swift in Sources */,
 				219A76221F3563B500A266CC /* ViewController.swift in Sources */,
 				219A76201F3563B500A266CC /* AppDelegate.swift in Sources */,
+				219A76341F35665F00A266CC /* ExpandableSection.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
